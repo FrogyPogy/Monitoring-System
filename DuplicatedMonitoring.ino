@@ -19,7 +19,7 @@
 
 String WIFI_SSID = "KUHP";
 String WIFI_PASS = "Banyumanik23"; 
-String API = "WFCLGZRXVOYTI9HS";
+String API = "";// fill with your thingspeak api
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 int countTrueCommand;
