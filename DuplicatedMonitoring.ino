@@ -4,7 +4,7 @@
 #include <DHT.h>
 #include <Wire.h>
 
-#define RX 12 // TX of esp8266 in connected with Arduino pin 2
+#define RX 12 // TX of esp8266 in connected with Arduino pin 12
 #define TX 3 // RX of esp8266 in connected with Arduino pin 3
 #define placa "Arduino UNO"
 #define Voltage_Resolution 5
